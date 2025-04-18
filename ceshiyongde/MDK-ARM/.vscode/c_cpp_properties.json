@@ -3,16 +3,16 @@
         {
             "name": "ceshiyongde",
             "includePath": [
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\Core\\Inc",
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\Drivers\\CMSIS\\Include",
-                "C:\\Keil_v5\\ARM\\ARMCC\\include",
-                "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\MDK-ARM",
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\Core\\Src",
-                "d:\\stm32produce\\literate-dollop\\ceshiyongde\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\Core\\Inc",
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\Drivers\\CMSIS\\Include",
+                "D:\\kell5\\core\\ARM\\ARMCC\\include",
+                "D:\\kell5\\core\\ARM\\ARMCC\\include\\rw",
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\MDK-ARM",
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\Core\\Src",
+                "c:\\Users\\90815\\Desktop\\Git hub\\literate-dollop\\ceshiyongde\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
