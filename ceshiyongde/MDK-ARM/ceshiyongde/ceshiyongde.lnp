@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"ceshiyongde\startup_stm32f103xb.o"
+"ceshiyongde\main.o"
+"ceshiyongde\stm32f1xx_it.o"
+"ceshiyongde\stm32f1xx_hal_msp.o"
+"ceshiyongde\stm32f1xx_hal_gpio_ex.o"
+"ceshiyongde\stm32f1xx_hal_tim.o"
+"ceshiyongde\stm32f1xx_hal_tim_ex.o"
+"ceshiyongde\stm32f1xx_hal.o"
+"ceshiyongde\stm32f1xx_hal_rcc.o"
+"ceshiyongde\stm32f1xx_hal_rcc_ex.o"
+"ceshiyongde\stm32f1xx_hal_gpio.o"
+"ceshiyongde\stm32f1xx_hal_dma.o"
+"ceshiyongde\stm32f1xx_hal_cortex.o"
+"ceshiyongde\stm32f1xx_hal_pwr.o"
+"ceshiyongde\stm32f1xx_hal_flash.o"
+"ceshiyongde\stm32f1xx_hal_flash_ex.o"
+"ceshiyongde\stm32f1xx_hal_exti.o"
+"ceshiyongde\system_stm32f1xx.o"
+--strict --scatter "ceshiyongde\ceshiyongde.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ceshiyongde.map" -o ceshiyongde\ceshiyongde.axf
