@@ -87,6 +87,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
   HAL_Delay(20);
+  HAL_Delay(100);
   /* USER CODE END 2 */
 
 
